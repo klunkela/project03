@@ -1,0 +1,55 @@
+{
+  "heroName": {
+    "name": "123afdasd 1123asd"
+  },
+  "users": [
+    {
+      "id": 1,
+      "login": "1",
+      "password": "11",
+      "email": "1@m.r",
+      "heroes": [
+        {
+          "id": 1,
+          "name": "Leanne Graham",
+          "strength": 0,
+          "agility": 0,
+          "intelligence": 0,
+          "charisma": 0
+        },
+        {
+          "id": 2,
+          "name": "user22",
+          "strength": 0,
+          "agility": 0,
+          "intelligence": 0,
+          "charisma": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "login": "2",
+      "password": "22",
+      "email": "2@m.r",
+      "heroes": [
+        {
+          "id": 1,
+          "name": "Leanne Graham",
+          "strength": 0,
+          "agility": 0,
+          "intelligence": 0,
+          "charisma": 0
+        },
+        {
+          "id": 2,
+          "name": "user22",
+          "strength": 0,
+          "agility": 0,
+          "intelligence": 0,
+          "charisma": 0
+        }
+      ]
+    }
+  ]
+}
