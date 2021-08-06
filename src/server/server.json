@@ -43,55 +43,7 @@
         },
         {
           "id": 2,
-          "name": "user22",
-          "strength": 0,
-          "agility": 0,
-          "intelligence": 0,
-          "charisma": 0
-        }
-      ]
-    },
-    {
-      "id": 12651197,
-      "login": "3",
-      "password": "33",
-      "email": "klunk@inbox.ru",
-      "heroes": [
-        {
-          "id": 1,
-          "name": "Leanne Graham",
-          "strength": 0,
-          "agility": 0,
-          "intelligence": 0,
-          "charisma": 0
-        },
-        {
-          "id": 2,
-          "name": "user22",
-          "strength": 0,
-          "agility": 0,
-          "intelligence": 0,
-          "charisma": 0
-        }
-      ]
-    },
-    {
-      "id": 3922787,
-      "login": "13",
-      "password": "13",
-      "email": "klunk@inbox.ru",
-      "heroes": [
-        {
-          "id": 1,
-          "name": "Leanne Graham",
-          "strength": 0,
-          "agility": 0,
-          "intelligence": 0,
-          "charisma": 0
-        },
-        {
-          "id": 2,
-          "name": "user22",
+          "name": "user222",
           "strength": 0,
           "agility": 0,
           "intelligence": 0,
